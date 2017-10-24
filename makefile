@@ -1,2 +1,2 @@
 test:
-DO NOT MERGE!
+ echo merge
