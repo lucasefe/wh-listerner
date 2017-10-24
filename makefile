@@ -1,2 +1,2 @@
 test:
-	echo OK
+	echo 1
