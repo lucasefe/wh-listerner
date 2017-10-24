@@ -1,2 +1,2 @@
 test:
- echo merge
+  echo merge
