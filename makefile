@@ -1,2 +1,2 @@
 test:
-	echo OK
+	FAIL
